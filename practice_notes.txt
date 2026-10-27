@@ -1,0 +1,4 @@
+Python practice notes
+Functions help us reuse code.
+Files can keep information after a program ends.
+Remember to practise a little every day.
