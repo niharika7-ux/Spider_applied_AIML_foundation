@@ -48,12 +48,11 @@ This repository contains small Python programs that I used to practise the basic
 
 Working through these examples helped me practise how Python stores information, makes decisions, repeats instructions, and groups code into functions and classes. The examples can be changed and run again with different values.
 
+
 ## Personalisation
 
 **Prepared by:** Niharika
 
 **Course / Section:** B.Tech (AI/ML)
 
-This is a learning project. I used a public Python fundamentals repository as a topic reference and rewrote or added examples for practice.
-
-**Reference:** https://github.com/Nitinsaklani07/spiders-applied-aiml-foundation
+This is a learning project created to practise Python fundamentals through simple examples and hands-on programming.
